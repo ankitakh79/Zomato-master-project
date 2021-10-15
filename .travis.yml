@@ -1,0 +1,36 @@
+sudo: required
+
+# Install Docker
+services:
+  - docker
+
+# Execute Logic
+script:
+  - echo "Hello Students!"
+
+after_success:
+  # Build all the docker files
+  - docker build -t ruchit3601/zomato-client ./client
+  - docker build -t ruchit3601/zomato-server ./server
+  - docker build -t ruchit3601/zomato-nginx ./nginx
+
+  # log in docker
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+
+  # push to docker hub
+  - docker push ruchit3601/zomato-client
+  - docker push ruchit3601/zomato-server
+  - docker push ruchit3601/zomato-nginx
+
+deploy:
+  # deploy to AWS EBS
+  provider: elasticbeanstalk
+  region: ap-south-1
+  app: Zomato-clone
+  env: Zomatoclone-env
+  bucket_name: elasticbeanstalk-ap-south-1-556432168777
+  bucket_path: zomato
+  on:
+    branch: master
+  access_key_id: $AWS_KEY
+  secret_access_key: $AWS_SECRET
