@@ -29,6 +29,7 @@ User can `sign in` or `sign up` using `google sign in` or through `email verific
 
 ## Built With
 
+`-ReactJS`
 <table  align=center>
   <tr>
  <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height=100   width=150 ></td>
