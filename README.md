@@ -29,23 +29,8 @@ User can `sign in` or `sign up` using `google sign in` or through `email verific
 
 ## Built With
 
-`-ReactJS`
-<table  align=center>
-  <tr>
- <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  height=100   width=150 ></td>
-  <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"  height=100  width=150 ></td>
-     <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height=100   ></td>
-    <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"  height=100   width=150 ></td>
 
-  </tr>
-   <tr>
-    
-    <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-256/razorpay-1649771-1399875.png"  height=100  width=150  ></td>
-     <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
-     <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/1024px-AmazonWebservices_Logo.svg.png"  height=100  ></td>
-  </tr>
-
-</table>
+`MERN stack`
 
 <hr/>
 
