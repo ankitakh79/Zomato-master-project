@@ -11,16 +11,16 @@ User can `sign in` or `sign up` using `google sign in` or through `email verific
      <td  colspan=3>Landing Page <img src="delivery.png" width=900 ></td>
   </tr>
   <tr>
-    <td>Restaurant Page <img src="dining.png" height=260 ></td>
-    <td>Collection Page <img src="nightlife.png" height=250 ></td>
-    <td>Profile Update Page<img src="restaurant.png" height=250></td>
+    <td>Dining Page <img src="dining.png" height=260 ></td>
+    <td>NightLife Page <img src="nightlife.png" height=250 ></td>
+    <td>Restaurant Update Page<img src="restaurant.png" height=250></td>
   <tr>
-   <td>Profile Update Page<img src="overview.png" height=250></td>
-     <td>Profile Update Page<img src="order-online.png" height=250></td>
-   <td>Profile Update Page<img src="menu.png" height=250></td>
+   <td>Overview Page<img src="overview.png" height=250></td>
+     <td>Order-Online Page<img src="order-online.png" height=250></td>
+   <td>Menu Page<img src="menu.png" height=250></td>
    <tr>
-   <td>Profile Update Page<img src="photos.png" height=250></td>
-     <td>Profile Update Page<img src="reviews.png" height=250></td>
+   <td>Photos Page<img src="photos.png" height=250></td>
+     <td>Reviews Page<img src="reviews.png" height=250></td>
   
   </tr>
 </table>
