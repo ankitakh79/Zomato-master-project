@@ -21,7 +21,7 @@ User can `sign in` or `sign up` using `google sign in` or through `email verific
    <tr>
    <td>Profile Update Page<img src="photos.png" height=250></td>
      <td>Profile Update Page<img src="reviews.png" height=250></td>
-   <td>Profile Update Page<img src="" height=250></td>
+  
   </tr>
 </table>
 
@@ -35,10 +35,10 @@ User can `sign in` or `sign up` using `google sign in` or through `email verific
   <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"  height=100  width=150 ></td>
      <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height=100   ></td>
     <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"  height=100   width=150 ></td>
-     <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_Google_2013_Official.svg"  height=100  ></td>
+
   </tr>
    <tr>
-    <td align=center>  <img src="https://raw.githubusercontent.com/mapbox/mapbox-gl-js-docs/publisher-production/docs/pages/assets/logo.png"   width=100  ></td>
+    
     <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-256/razorpay-1649771-1399875.png"  height=100  width=150  ></td>
      <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
      <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/1024px-AmazonWebservices_Logo.svg.png"  height=100  ></td>
