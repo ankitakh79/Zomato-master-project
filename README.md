@@ -39,7 +39,6 @@ User can `sign in` or `sign up` using `google sign in` or through `email verific
   </tr>
    <tr>
     <td align=center>  <img src="https://raw.githubusercontent.com/mapbox/mapbox-gl-js-docs/publisher-production/docs/pages/assets/logo.png"   width=100  ></td>
-   <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png"  height=100    ></td>
     <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-256/razorpay-1649771-1399875.png"  height=100  width=150  ></td>
      <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
      <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/1024px-AmazonWebservices_Logo.svg.png"  height=100  ></td>
@@ -76,7 +75,7 @@ To Start Server:
   To learn React, check out the [React documentation](https://reactjs.org/).
 - `Redux`
   To learn Redux, check out the [Redux documentation](https://redux.js.org/).
-- `Bootstrap`
+- `Tailwand`
 
 ### INTEGRATION
 
